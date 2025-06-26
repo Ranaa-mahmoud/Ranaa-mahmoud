@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ranaa Mahmoud</h1>
 <h3 align="center">💻 Frontend Developer | Passionate about building modern UIs using React & Tailwind</h3>
 
