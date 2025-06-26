@@ -50,26 +50,6 @@
 
 ---
 
-### 🎓 Certifications & Courses:
-
-- ✅ [Web Development Challenger Track – FWD/UDACITY](https://example-link.com)
-- ✅ [React & Redux Course – freeCodeCamp](https://example-link.com)
-- ✅ [Responsive Web Design – freeCodeCamp](https://example-link.com)
-- ✅ [JavaScript Algorithms and Data Structures – freeCodeCamp](https://example-link.com)
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranaa-mahmoud&show_icons=true&theme=radical" alt="Ranaa's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranaa-mahmoud&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 💼 Connect with me:
 <p align="left">
   <a href="mailto:ranamahmod61@gmail.com">
@@ -78,11 +58,4 @@
   <a href="https://www.linkedin.com/in/rana-mahmoud-313134362">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 👀 Visitors Count:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ranaa-mahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="Ranaa" />
 </p>
